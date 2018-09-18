@@ -1,0 +1,6 @@
+---
+- hosts: main_centos
+
+  roles:
+     - ansible-role-patroni
+

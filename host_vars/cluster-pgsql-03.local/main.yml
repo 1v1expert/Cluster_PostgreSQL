@@ -1,0 +1,5 @@
+---
+
+patroni_node_name: cluster_pgsql_03
+
+keepalived_priority: 101
